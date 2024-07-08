@@ -1,0 +1,5 @@
+# ignore all files at the directory named venv
+venv/
+
+# ignore all files at the directory named data
+data/
