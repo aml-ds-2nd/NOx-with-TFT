@@ -3,3 +3,6 @@ venv/
 
 # ignore all files at the directory named data
 data/
+
+# ignore all files named .DS_Store
+.DS_Store
